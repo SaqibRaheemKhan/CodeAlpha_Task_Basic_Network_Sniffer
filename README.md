@@ -1,8 +1,4 @@
 # CodeAlpha_Task_Basic_Network_Sniffer
-Perfect 🚀 I’ll generate **both files** for you:
-
----
-
 ## 📄 README.md
 
 ````markdown
